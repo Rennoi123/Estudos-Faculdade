@@ -1,2 +1,2 @@
-# Estudos-Faculdade
-Projetos feito na faculdade com Orientação a aobjeto em Java.
+# Exercicios-Faculdade
+Projetos feito na faculdade com Orientação a objeto em Java.
